@@ -18,3 +18,5 @@ build/
 cmake_install.cmake
 fmt-*.cmake
 fmt.pc
+virtualenv
+obj-x86_64-linux-gnu/
